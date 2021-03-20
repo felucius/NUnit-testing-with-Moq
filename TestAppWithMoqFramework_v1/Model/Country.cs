@@ -27,9 +27,18 @@ namespace TestAppWithMoqFramework_v1.Model
 		/// Add a city
 		/// </summary>
 		/// <param name="city"></param>
-		public void AddCity(City city)
+		public bool AddCity(City city)
 		{
 			Cities.Add(city);
+
+			if(Cities.Count > 0)
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
 		}
 
 		/// <summary>
@@ -45,7 +54,7 @@ namespace TestAppWithMoqFramework_v1.Model
 		/// Return the name of the country.
 		/// </summary>
 		/// <returns></returns>
-		public string GetCountry()
+		public string GetName()
 		{
 			return Name;
 		}

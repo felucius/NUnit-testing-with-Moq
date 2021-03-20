@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjhqsxcZ7zeRT3tJRQvvGGs35xUsVNUFLTD9IhFfzdR8rSticxZdGPhilaCDTmW3gffe1xEOX7OormDlL5hADw==",
+  "dgSpecHash": "hn+m6ermvwLjaarUZuSLjmzqHYrHnA/nwZ9TUeQg08yFDTcXJbgHKVJ2yDjqjQBorgTFvr/s7/hH+BgkM9OrhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
+  "projectFilePath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

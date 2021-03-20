@@ -27,9 +27,18 @@ namespace TestAppWithMoqFramework_v1.Model
 		/// Add a building to the list.
 		/// </summary>
 		/// <param name="building"></param>
-		public void AddBuilding(Building building)
+		public bool AddBuilding(Building building)
 		{
 			Buildings.Add(building);
+
+			if(Buildings.Count > 0)
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
 		}
 
 		/// <summary>

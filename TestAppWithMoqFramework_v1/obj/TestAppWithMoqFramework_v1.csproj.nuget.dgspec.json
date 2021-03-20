@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj": {}
+    "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj": {
+    "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
+        "projectUniqueName": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
         "projectName": "TestAppWithMoqFramework_v1",
-        "projectPath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
+        "projectPath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\TestAppWithMoqFramework_v1.csproj",
         "packagesPath": "C:\\Users\\maxime.delange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\TestAppWithMoqFramework_v1\\obj\\",
+        "outputPath": "C:\\Users\\maxime.delange\\Maxime\\Small test projects\\NUnit-testing-with-Moq\\TestAppWithMoqFramework_v1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

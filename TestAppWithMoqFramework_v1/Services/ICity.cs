@@ -18,6 +18,14 @@ namespace TestAppWithMoqFramework_v1.Services
 	public interface ICity
 	{
 		/// <summary>
+		/// Name
+		/// </summary>
+		string Name { get; set; }
+
+		// Buildings
+		List<Building> Buildings { get; set; }
+
+		/// <summary>
 		/// Get city name
 		/// </summary>
 		/// <returns></returns>
@@ -33,6 +41,6 @@ namespace TestAppWithMoqFramework_v1.Services
 		/// Add building.
 		/// </summary>
 		/// <param name="building"></param>
-		void AddBuilding(Building building);
+		bool AddBuilding(Building building);
 	}
 }

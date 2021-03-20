@@ -18,10 +18,20 @@ namespace TestAppWithMoqFramework_v1.Services
 	public interface ICountry
 	{
 		/// <summary>
+		/// Name
+		/// </summary>
+		string Name { get; set; }
+
+		/// <summary>
+		/// Cities
+		/// </summary>
+		List<City> Cities { get; set; }
+
+		/// <summary>
 		/// Get country name
 		/// </summary>
 		/// <returns></returns>
-		string GetCountry();
+		string GetName();
 
 		/// <summary>
 		/// Get cities.
@@ -33,6 +43,6 @@ namespace TestAppWithMoqFramework_v1.Services
 		/// Add a city.
 		/// </summary>
 		/// <param name="city"></param>
-		void AddCity(City city);
+		bool AddCity(City city);
 	}
 }
