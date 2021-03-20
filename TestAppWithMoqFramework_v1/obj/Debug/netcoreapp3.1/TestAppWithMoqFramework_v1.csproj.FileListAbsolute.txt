@@ -1,0 +1,13 @@
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.exe
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.deps.json
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.runtimeconfig.json
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.runtimeconfig.dev.json
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.dll
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\bin\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.pdb
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.csprojAssemblyReference.cache
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.AssemblyInfoInputs.cache
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.AssemblyInfo.cs
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.csproj.CoreCompileInputs.cache
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.dll
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.pdb
+C:\Users\maxime.delange\Maxime\Small test projects\TestAppWithMoqFramework_v1\obj\Debug\netcoreapp3.1\TestAppWithMoqFramework_v1.genruntimeconfig.cache
